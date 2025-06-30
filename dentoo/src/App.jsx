@@ -5,6 +5,7 @@ import Features from "./components/features";
 import Benefits from "./components/benefits";
 import SocialProof from "./components/socialProof";
 import Faqs from "./components/faqs";
+import Banner from "./components/banner";
 
 function App() {
   return (
@@ -14,6 +15,11 @@ function App() {
       <Benefits />
       <SocialProof />
       <Faqs />
+      <Banner
+        title="Your Bright, Confident Smile Awaits!"
+        description="Take the first step towards a comfortable experience and a stunning smile. Connect with our team to discuss your needs and start your journey to optimal oral health and lasting confidence."
+        buttonText="Schedule Your Free Consultation"
+      />
     </>
   );
 }
