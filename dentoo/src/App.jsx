@@ -7,10 +7,12 @@ import SocialProof from "./components/socialProof";
 import Faqs from "./components/faqs";
 import Banner from "./components/banner";
 import Footer from "./components/footer";
+import Navbar from "./components/navbar";
 
 function App() {
   return (
     <>
+      <Navbar />
       <Hero />
       <Features />
       <Benefits />
