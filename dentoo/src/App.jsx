@@ -24,6 +24,7 @@ function App() {
         buttonText="Schedule Your Free Consultation"
       />
       <Footer />
+      {/*End of version 1 . to come back and fix colors*/}
     </>
   );
 }
