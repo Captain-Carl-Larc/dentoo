@@ -1,7 +1,7 @@
 function Hero() {
   const heroImage = (
     <img
-      src="https://images.pexels.com/photos/7155530/pexels-photo-7155530.jpeg"
+      src="https://images.pexels.com/photos/3845625/pexels-photo-3845625.jpeg"
       alt="Placeholder banner image"
     />
   );
