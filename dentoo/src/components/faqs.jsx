@@ -2,7 +2,7 @@ function Faqs() {
   const faqs = [
     {
       question:
-        "What makes [Your Dental Clinic Name] different from other dental practices?",
+        "What makes Dentoo different from other dental practices?",
       answer:
         "We offer a truly personalized approach, combining advanced technology and gentle techniques with a compassionate team, ensuring your comfort and delivering exceptional, lasting results for your smile.",
     },
