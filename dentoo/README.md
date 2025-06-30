@@ -1,12 +1,108 @@
-# React + Vite
+# dentoo
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A landing page for a dental clinic business.
 
-Currently, two official plugins are available:
+## Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [React](https://react.dev/)
+- [Vite](https://vitejs.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [DaisyUI](https://daisyui.com/)
+- [Font Awesome React](https://github.com/FortAwesome/react-fontawesome)
+- [ESLint](https://eslint.org/)
 
-## Expanding the ESLint configuration
+## Installed Packages
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- `react`, `react-dom`
+- `vite`, `@vitejs/plugin-react`
+- `tailwindcss`, `@tailwindcss/vite`
+- `daisyui`
+- `@fortawesome/fontawesome-svg-core`, `@fortawesome/free-brands-svg-icons`, `@fortawesome/free-solid-svg-icons`, `@fortawesome/react-fontawesome`
+- `eslint`, `@eslint/js`, `eslint-plugin-react-hooks`, `eslint-plugin-react-refresh`
+- `@types/react`, `@types/react-dom` (for type support)
+- `globals`
+
+## Getting Started
+
+### 1. Install dependencies
+
+Using [pnpm](https://pnpm.io/):
+
+```sh
+pnpm install
+```
+
+Or with npm:
+
+```sh
+npm install
+```
+
+### 2. Start the development server
+
+```sh
+pnpm dev
+```
+
+or
+
+```sh
+npm run dev
+```
+
+The app will be available at [http://localhost:5173](http://localhost:5173) by default.
+
+### 3. Build for production
+
+```sh
+pnpm build
+```
+
+or
+
+```sh
+npm run build
+```
+
+### 4. Preview the production build
+
+```sh
+pnpm preview
+```
+
+or
+
+```sh
+npm run preview
+```
+
+### 5. Lint the code
+
+```sh
+pnpm lint
+```
+
+or
+
+```sh
+npm run lint
+```
+
+## Project Structure
+
+```
+dentoo/
+  public/
+  src/
+    assets/
+    components/
+    App.jsx
+    main.jsx
+    App.css
+  index.html
+  package.json
+  vite.config.js
+  ...
+```
+
+---
