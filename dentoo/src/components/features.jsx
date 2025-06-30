@@ -8,7 +8,7 @@ import {
 function Features() {
   return (
     <section>
-      <div className="container mx-auto px-4 pt-16">
+      <div className="container mx-auto px-4 pt-16 pb-12">
         <h2 className="text-3xl font-bold mb-6 text-center">
           What Makes Our Clinic Exceptional
         </h2>
