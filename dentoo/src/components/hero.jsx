@@ -6,7 +6,7 @@ function Hero() {
     />
   );
   return (
-    <section className="pt-20 md:pt-32 grid md:grid-rows-1 md:grid-cols-2 gap-2 md:gap-4 p-4 md:p-8 bg-gray-100 items-center">
+    <section className="pt-20 md:pt-32 grid md:grid-rows-1 md:grid-cols-2 gap-2 md:gap-4 p-4 md:p-8 bg-gray-100 items-center h-screen ">
       <div
         id="text-container"
         className="flex flex-col justify-start md:mt-16 items-center md:items-start text-center md:text-left"
