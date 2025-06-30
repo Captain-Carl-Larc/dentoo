@@ -7,7 +7,7 @@ function Benefits() {
             Experience Unparalleled Comfort and Renewed Confidence at Every
             Dental Visit.
           </h2>
-          <p>
+          <p className="text-gray-700 ">
             We understand that visiting the dentist can be daunting. Our
             compassionate team, combined with state-of-the-art technology and a
             genuinely soothing environment, is dedicated to making your comfort

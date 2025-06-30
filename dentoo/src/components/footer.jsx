@@ -4,7 +4,7 @@ function Footer() {
       <aside>
         <p>
           Copyright © {new Date().getFullYear()} - All right reserved by
-          SmartMama Holdings
+          Dentoo Clinic
         </p>
       </aside>
     </footer>
