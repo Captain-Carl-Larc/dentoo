@@ -23,7 +23,7 @@ function Benefits() {
         </div>
         <div className="benefit-image-container max-w-md">
           <img
-            src="https://images.pexels.com/photos/7155530/pexels-photo-7155530.jpeg"
+            src="https://images.pexels.com/photos/3663999/pexels-photo-3663999.jpeg"
             className="w-full h-auto rounded-lg shadow-lg"
             alt="Placeholder banner"
           />
@@ -32,7 +32,7 @@ function Benefits() {
       <div className="benefit-2 grid grid-cols-1 md:grid-cols-2 gap-4 items-center mt-12 md:mt-20">
         <div className="benefit-image-container order-2 md:order-1 max-w-md">
           <img
-            src="https://images.pexels.com/photos/7155530/pexels-photo-7155530.jpeg"
+            src="https://images.pexels.com/photos/3779705/pexels-photo-3779705.jpeg"
             alt="Benefit Image"
             className="w-full h-auto rounded-lg shadow-lg"
           />
